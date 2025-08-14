@@ -1114,12 +1114,11 @@ tags:
 
 # 下载源码
 
-这篇文章也是用 Markdown 格式写哒，如果你想查看本篇文章的源码的话，可以点击下面的按钮下载下来看看哦~
+这篇文章也是用 Markdown 格式写哒，如果你想查看本篇文章的源码的话，可以点击下面的按钮进入源码页面看看哦~
 
-{% button 'fab fa-markdown' 'Markdown 格式' 'https://files.zohopublic.com.cn/public/workdrive-public/download/9kwj71263a960c58f4b47850995bff69abbf2?x-cli-msg=%7B%22linkId%22%3A%221GtE4MoQcsx-35P3d%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D' %}
-{% button 'fas fa-file-lines' 'TXT 格式' 'https://files.zohopublic.com.cn/public/workdrive-public/download/9kwj758b913f12e4f493ea0fdf7e60ca0a335?x-cli-msg=%7B%22linkId%22%3A%221GtE4MoQcsy-35P3d%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D' %}
+{% button 'fab fa-markdown' 'Markdown 格式' 'https://files.yoxo.top/Markdown格式详解与Solitude主题FrontMatter使用说明.md' %}
 
-另外请注意：由于本篇文章是通过CC BY-NC-SA 4.0协议共享的，如果你下载了源码的话，也请遵守CC BY-NC-SA 4.0协议的各项规定哦~
+另外请注意：由于本篇文章是通过CC BY-NC-SA 4.0协议共享的，所以即使在源码页面也请遵守CC BY-NC-SA 4.0协议的各项规定哦~
 
 您可以：
 
